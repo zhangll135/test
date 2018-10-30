@@ -1,4 +1,4 @@
 #! /usr/bin/env ruby
-def hello
+def hola
 puts 'hello world'
 end
